@@ -1,1 +1,3 @@
 # Movie-Recommendation-System
+
+This movie recommendation system utilizes the power of cosine similarity to provide personalized movie suggestions based on content analysis. By analyzing the content features of movies the system computes the cosine similarity between movies, which measures their similarity in content space. The system then recommends movies with the highest cosine similarity scores, indicating movies that share similar content features. This approach allows our recommendation system to provide accurate and relevant movie suggestions, catering to individual users preferences and interests.
